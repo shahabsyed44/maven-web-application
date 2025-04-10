@@ -106,7 +106,7 @@
         <a href="#">About Us</a>
         <a href="#">Admissions</a>
         <a href="#">Departments</a>
-        <a href="#">Contacts</a>
+        <a href="#">Contact</a>
     </nav>
 
     <div class="hero">
