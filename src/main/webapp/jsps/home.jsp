@@ -129,7 +129,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 [College Name]. All rights reserved. Designed by Your Name.</p>
+        <p>&copy; 2024 [College Name]. All rights . Designed by Your Name.</p>
     </footer>
 
 </body>
