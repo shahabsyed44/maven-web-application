@@ -129,7 +129,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 [INDIANA WESLEYAN UNIVERSITY]. All rights . Designed by Your Name.</p>
+        <p>&copy; 2025 [INDIANA WESLEYAN UNIVERSITY]. All rights . Designed by Your Name.</p>
     </footer>
 
 </body>
